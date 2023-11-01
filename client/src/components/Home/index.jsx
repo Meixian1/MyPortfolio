@@ -5,7 +5,7 @@ import SoftwareEngineering1 from '../Images/SoftwareEngineering1.jpg';
 // import FaceMask from '../Images/FaceMask.jpg';
 import SeattlePublicLibrary from '../Images/SeattlePublicLibrary.jpg';
 import SDLC from '../Images/SDLC.png';
-import versatileConnect from '../Images/versatileConnect.jpg';
+import versatileConnect from '../Images/VersatileConnect.jpg';
 
 const availableColors = [
   { bgClass: 'bg-pink-300' },
