@@ -1,10 +1,10 @@
 import React, {useState} from 'react'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'; 
 import './App.css'
-import NavBar from './component/NavBar'
-import Home from './component/Home'
-import ProjectDemo from './component/ProjectDemo'
-import ContactInfo from './component/Contact'
+import NavBar from './components/NavBar'
+import Home from './components/Home'
+import ProjectDemo from './components/ProjectDemo'
+import ContactInfo from './components/Contact'
 
 const App = () => {
 
