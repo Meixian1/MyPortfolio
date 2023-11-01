@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './style.css'; // Import the CSS file
 import ProPhoto from '../Images/ProPhoto.jpg'; // Import the image
 import SoftwareEngineering1 from '../Images/SoftwareEngineering1.jpg';
-// import FaceMask from '../Images/FaceMask.jpg';
+import FaceMask from '../Images/FaceMask.jpg';
 import SeattlePublicLibrary from '../Images/SeattlePublicLibrary.jpg';
 import SDLC from '../Images/SDLC.png';
 import versatileConnect from '../Images/VersatileConnect.jpg';
@@ -33,7 +33,7 @@ const pages = [
   },
   {
     title: "A Creative Cosmetic Chemist/Formulator:",
-    image: "",
+    image: FaceMask,
     content: "With a three-year career in product development, I've excelled in crafting skincare solutions in the personal care sector. I've successfully launched products that have graced both physical and online shelves, gaining a deep understanding of market dynamics.",
   },
   {
