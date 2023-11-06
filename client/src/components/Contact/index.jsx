@@ -33,6 +33,9 @@ const ContactInfo = () => {
         </div>
       ))}
     </div>
+    <a href="https://paypal.me/YouAreSoAwesome?country.x=US&locale.x=en_US" target="_blank">
+  <h1>Buy Me a Coffee 😀:<strong>https://paypal.me/YouAreSoAwesome</strong></h1>
+</a>
     </div>
   );
 };
